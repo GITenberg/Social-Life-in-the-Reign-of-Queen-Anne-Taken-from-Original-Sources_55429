@@ -1,5 +1,8 @@
 _repo: Social-Life-in-the-Reign-of-Queen-Anne-Taken-from-Original-Sources_55429
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55429-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Ashton, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '9006'
     url: http://www.gutenberg.org/2009/agents/9006
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55429#Social-Life-in-the-Reign-of-Queen-Anne-Taken-from-Original-Sources
 gutenberg_issued: '2017-08-26'
 gutenberg_type: Text
 identifiers:
